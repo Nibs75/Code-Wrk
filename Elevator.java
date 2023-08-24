@@ -126,7 +126,7 @@ public class Elevator {
 
         // Below are a few test cases.
         // Printing "true" means the return value is correct.
-        // Each call to minimumButtonPushes() must take less than 1 second.
+        // Each call to minimumButtonPushes() should take less than 1 second.
 
         System.out.println(3 == minimumButtonPushes(10, 2, 1, 1, 10));
         System.out.println(5 == minimumButtonPushes(100, 3, 7, 20, 11));
