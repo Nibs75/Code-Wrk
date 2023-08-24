@@ -6,15 +6,12 @@ import java.util.ArrayList;
 // Do NOT add any import
 
 
-// You may implement a new class here, such as a Stack or a Queue.
-// Any additional class that you use must be included in THIS file.
+// May implement a new class here, such as a Stack or a Queue.
+
 
 public class BallSort {
 
     /**
-     * The function that you need to implement.
-     * Read the assignment handout for the specification.
-     *
      * DO NOT MODIFY the declaration of the function (its parameter types and return type).
      */
     public static int solve(int[] arr) { 
@@ -80,8 +77,8 @@ public class BallSort {
 }
     /**
      * This main function contains a few test cases that can be used to check
-     * that your code compiles and runs. Note that these test cases are NOT complete,
-     * and you need to test your code thoroughly with more cases.
+     * that the code compiles and runs. 
+     * Test cases are not viable enough to properly ensure that this code actually works in a proper setting.
      */
     public static void main(String[] args) {
 
