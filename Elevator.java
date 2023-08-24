@@ -1,19 +1,11 @@
-/**
- * EECS 2011 Z, Winter 2023
- * Assignment 4, Question 2 starter code.
- * Please read carefully the instructions in the assignment handout
- * and the starter code.
- */
+
 package A4;
 // Do NOT modify the package declaration
 // Do NOT add any import
 
-// You may implement add any additional classes you want.
-// For example, a Queue class, a Stack class, or a Node class.
-// TODO: Here, implement any additional classes you need.
 
 
-public class A4Q2 {
+public class Elevator {
     private static class Node{
         int data;
         Node next;
