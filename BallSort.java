@@ -1,9 +1,4 @@
-/**
- * EECS 2011 Z, Winter 2023
- * Assignment 1, Question 2 starter code.
- * Please read carefully the instructions in the assignment handout
- * and the starter code.
- */
+
 package A1;
 // Do NOT modify the package declaration
 
@@ -14,7 +9,7 @@ import java.util.ArrayList;
 // You may implement a new class here, such as a Stack or a Queue.
 // Any additional class that you use must be included in THIS file.
 
-public class A1Q2 {
+public class BallSort {
 
     /**
      * The function that you need to implement.
