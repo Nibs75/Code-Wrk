@@ -3,8 +3,8 @@ package A3;
 // Do NOT modify the package declaration
 // Do NOT add any import
 /**
- * Your own implementation of a HashTable class.
- * Add the appropriate fields and methods you want in order to solve this problem.
+ * My own implementation of a HashTable class.
+ * I added the appropriate fields and methods in order to solve this problem.
  */
 class HashTable {
     private final int Initial_Capacity = 1000000;
@@ -70,7 +70,6 @@ class HashTable {
         return ((hash * b) % p) % Initial_Capacity;
     }
 
-    // TODO: implement your own HashTable class
 }
 
     
@@ -122,7 +121,7 @@ public class IntSol {
 
         // Below are a few test cases.
         // Printing "true" means the return value is correct.
-        // Each call to solve() must take less than 5 seconds.
+        // Each call to solve() should take less than 5 seconds.
 
         System.out.println(340 == solve(12, 34, 56, 78, 9, 10));
         System.out.println(16665 == solve(20, -11, -2, 0, 11, -2011));
