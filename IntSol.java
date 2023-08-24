@@ -1,9 +1,4 @@
-/**
- * EECS 2011 Z, Winter 2023
- * Assignment 3, Question 2 starter code.
- * Please read carefully the instructions in the assignment handout
- * and the starter code.
- */
+
 package A3;
 // Do NOT modify the package declaration
 // Do NOT add any import
@@ -80,7 +75,7 @@ class HashTable {
 
     
 
-public class A3Q2 {
+public class IntSol {
 
     /**
      * Return the number of unique integer solutions where each integer is in the range [-50, 50].
